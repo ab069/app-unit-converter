@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.yourapp.template"
+    namespace = "com.ab069.unitconverter"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.yourapp.template"
+        applicationId = "com.ab069.unitconverter"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
